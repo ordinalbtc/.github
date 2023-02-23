@@ -4,7 +4,7 @@
    <img src="https://ordinalbtc.org/images/logo.png" width="200" height="200">
 </p>
 
-##Marketplace for Bitcoin Inscriptions
+## Marketplace for Bitcoin Inscriptions
 Ordinal BTC Lab's plan is to increase exposure to this new ecosystem by on ramping ethereum users who do not already own BTC. Through the use of our token users will be able to buy and sell Ordinals that are stored on the bitcoin network without the need to buy BTC.
 
 
